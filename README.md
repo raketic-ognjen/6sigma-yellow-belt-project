@@ -59,12 +59,6 @@ This project followed the **DMAIC cycle**:
 
 ---
 
-## 📸 Visual Preview
-
-![Process Map](./visuals/process_map_preview.png)
-
----
-
 ## 🧩 How This Fits My Portfolio
 
 This Six Sigma Yellow Belt project demonstrates:
